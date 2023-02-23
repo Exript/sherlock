@@ -156,7 +156,7 @@ Sherlock.  This invocation hides the progress text that Sherlock normally
 outputs, and instead shows the verbose output of the tests.
 
 ```console
-$ cd sherlock/sherlock
+$ cd sherlock/sherlock 
 $ python3 -m unittest tests.all --verbose
 ```
 
